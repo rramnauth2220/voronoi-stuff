@@ -1,0 +1,1 @@
+This [multi-line chart](/mbostock/3884955) uses an invisible [Voronoi tessellation](/mbostock/4060366) to handle mouseover; the closest point to the mouse on any line is highlighted. Click the checkbox in the top-right to toggle the visibility of the Voronoi overlay.
